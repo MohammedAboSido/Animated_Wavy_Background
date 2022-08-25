@@ -1,2 +1,2 @@
-# -Animated_Wavy_Background
+# Animated_Wavy_Background
 HTML, CSS- Animated Wavy Background
